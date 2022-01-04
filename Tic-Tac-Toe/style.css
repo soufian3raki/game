@@ -1,0 +1,26 @@
+.game{
+    width: 252px;
+    text-align: center;
+    color: antiquewhite;
+    margin: auto;
+}
+.title{
+    background: blueviolet;
+    padding: 5px 0;
+    margin: 5px 0;
+}
+span{
+    color: burlywood;
+}
+.square{
+    width: 80px;
+    height: 80px;
+    background: blueviolet;
+    float: left;
+    margin: 2px;
+    font-size: 70px;
+}
+.square:hover{
+    background: orchid;
+    cursor: pointer;
+}
